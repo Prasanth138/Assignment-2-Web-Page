@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600&family=Poppins&display=swap');
 body{
     overflow-x : hidden;  
+    font-family: 'Poppins', sans-serif;
 }
 .info{
     font-size : 0.6em;
@@ -17,4 +19,8 @@ body{
 }
 .buttons{
     background-color: rgb(240, 13, 108);
+}
+
+footer {
+    bottom: 0;
 }
